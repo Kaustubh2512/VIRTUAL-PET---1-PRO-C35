@@ -1,1 +1,2 @@
-# VIRTUAL-PET---1-PRO-C35
+# Virtual-Pet-1
+c34 project
